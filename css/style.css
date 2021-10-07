@@ -88,7 +88,7 @@ ul{
     /* ShowCase */
     #showcase{
         min-height: 400px;
-        background:url('../img/showcase.jpg') no-repeat 0 -400px;
+        background:url('../img/showcase.jpeg') no-repeat -500px, -400px;
         text-align:center;
         color:#ffffff;
     }
